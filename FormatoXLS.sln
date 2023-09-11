@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FormatoXLS", "FormatoXLS\FormatoXLS.csproj", "{2A008270-3240-4B68-8FB8-3C0E4CEB8A55}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "FormatoXLSVB", "FormatoXLSVB\FormatoXLSVB.vbproj", "{335C454E-2E7A-46A9-8198-13F24DC110F6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A008270-3240-4B68-8FB8-3C0E4CEB8A55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A008270-3240-4B68-8FB8-3C0E4CEB8A55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A008270-3240-4B68-8FB8-3C0E4CEB8A55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A008270-3240-4B68-8FB8-3C0E4CEB8A55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{335C454E-2E7A-46A9-8198-13F24DC110F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{335C454E-2E7A-46A9-8198-13F24DC110F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{335C454E-2E7A-46A9-8198-13F24DC110F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{335C454E-2E7A-46A9-8198-13F24DC110F6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {68680BFB-99F4-43F4-98E4-A9808F2EF8C7}
+	EndGlobalSection
+EndGlobal
